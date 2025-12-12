@@ -1,7 +1,7 @@
 # Operating Intelligence
 
 **Operating Intelligence: Transforming the Operating System into a Proactive, Human‑Centered Companion**  
-Thomas [LastName], [Affiliation] — December 2025
+Thomas Gere, Independent — December 2025
 
 This repository contains the public release (v1.0) of the Operating Intelligence manuscript, figures, and supporting materials.
 
@@ -20,7 +20,7 @@ Operating systems have historically been reactive platforms that wait for user c
 This release is published under **CC BY 4.0**. See `LICENSE` for details.
 
 ## How to cite
-Thomas [LastName]. 2025. *Operating Intelligence: Transforming the Operating System into a Proactive, Human‑Centered Companion*. DOI: **[Zenodo DOI will appear here]**.
+Thomas Gere. 2025. *Operating Intelligence: Transforming the Operating System into a Proactive, Human‑Centered Companion*. DOI: **[Zenodo DOI will appear here]**.
 
 ## Contact
 Thomas [LastName] — your.email@example.com
