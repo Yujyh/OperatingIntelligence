@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 420" width="1040" height="420" overflow="visible">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#111" style="overflow:visible">
+    <text x="40" y="30" font-weight="700">Upskilling Lifecycle</text>
+
+    <g transform="translate(60,80)">
+      <rect x="0" y="0" width="220" height="60" fill="#e6f7ff" stroke="#2b6cb0"/>
+      <text x="30" y="36" font-size="15" dominant-baseline="middle">Detect Skill Gaps</text>
+    </g>
+
+    <g transform="translate(320,80)">
+      <rect x="0" y="0" width="220" height="60" fill="#e6ffe6" stroke="#2f855a"/>
+      <text x="40" y="36" font-size="15" dominant-baseline="middle">Stage Micro Learning</text>
+    </g>
+
+    <g transform="translate(580,80)">
+      <rect x="0" y="0" width="220" height="60" fill="#fff0e6" stroke="#dd6b20"/>
+      <text x="40" y="36" font-size="15" dominant-baseline="middle">Assess and Credential</text>
+    </g>
+
+    <g transform="translate(840,80)">
+      <rect x="0" y="0" width="140" height="60" fill="#f7e8ff" stroke="#6b46c1"/>
+      <text x="20" y="36" font-size="15" dominant-baseline="middle">Role Transition</text>
+    </g>
+
+    <path d="M280 110 L320 110" stroke="#4a5568" stroke-width="2"/>
+    <path d="M540 110 L580 110" stroke="#4a5568" stroke-width="2"/>
+    <path d="M800 110 L840 110" stroke="#4a5568" stroke-width="2"/>
+  </g>
+</svg>

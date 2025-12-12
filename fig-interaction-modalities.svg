@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 440" width="1040" height="440" overflow="visible">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#111" style="overflow:visible">
+    <text x="40" y="40" font-weight="700">Interaction Modalities and UI Primitives</text>
+
+    <g transform="translate(160,120)">
+      <circle cx="120" cy="40" r="80" fill="#e6f7ff" stroke="#2b6cb0"/>
+      <text x="90" y="45" font-size="16" dominant-baseline="middle">Voice</text>
+    </g>
+
+    <g transform="translate(420,120)">
+      <circle cx="120" cy="40" r="80" fill="#e6ffe6" stroke="#2f855a"/>
+      <text x="90" y="45" font-size="16" dominant-baseline="middle">Visual</text>
+    </g>
+
+    <g transform="translate(680,120)">
+      <circle cx="120" cy="40" r="80" fill="#fff0e6" stroke="#dd6b20"/>
+      <text x="90" y="45" font-size="16" dominant-baseline="middle">Haptic</text>
+    </g>
+
+    <g transform="translate(240,260)">
+      <rect x="0" y="0" width="560" height="90" fill="#f7f7f9" stroke="#4a5568"/>
+      <text x="20" y="55" font-size="16" dominant-baseline="middle">UI Primitives: Proposal Card; Confidence Badge; Undo Token; Explainable Trace</text>
+    </g>
+  </g>
+</svg>
