@@ -23,4 +23,4 @@ This release is published under **CC BY 4.0**. See `LICENSE` for details.
 Thomas Gere. 2025. *Operating Intelligence: Transforming the Operating System into a Proactive, Human‑Centered Companion*. DOI: **[Zenodo DOI will appear here]**.
 
 ## Contact
-Thomas [LastName] — your.email@example.com
+Thomas Gere — thomas@agylgroup.com
