@@ -20,7 +20,7 @@ Operating systems have historically been reactive platforms that wait for user c
 This release is published under **CC BY 4.0**. See `LICENSE` for details.
 
 ## Citation
-Thomas Gere. 2025. Operating Intelligence: Transforming the Operating System into a Proactive, Human-Centered Companion. Version 1.0. Agyl Group. DOI: https://doi.org/10.5281/zenodo.17914869
+Thomas Gere. 2025. Operating Intelligence: Transforming the Operating System into a Proactive, Human-Centered Companion. Version 1.0. Agyl Group. DOI: https://doi.org/10.5281/zenodo.18095620
 
 ## Contact
 Thomas Gere — tgere.london@gmail.com
